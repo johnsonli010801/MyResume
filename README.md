@@ -20,6 +20,7 @@ Relevant Coursework: Programming Design Paradigms, Mobile Application Developmen
 
 **University of California, San Diego** | *Sep 2021 - Jun 2024*  
 Bachelor of Science in Computer Science  
+GPA: 3.355  
 
 **University of California, San Diego** | *2022 - 2023*  
 Bachelor of Science in Computer Engineering (Minor)
